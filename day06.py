@@ -1,11 +1,11 @@
 example = [
-  "Time:      7  15   30",
-  "Distance:  9  40  200"
+  "Time:      71530",
+  "Distance:  940200"
 ]
 
 puzzle = [
-  "Time:        61     67     75     71",
-  "Distance:   430   1036   1307   1150"
+  "Time:        61677571",
+  "Distance:   430103613071150"
 ]
 
 times = [int(x) for x in puzzle[0].split()[1:]]
